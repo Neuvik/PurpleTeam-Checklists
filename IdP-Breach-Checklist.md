@@ -6,12 +6,14 @@
 |MONITORING|User Activity Monitoring: Where do your users sign in from?| |
 |MONITORING|User Activity Monitoring: What do they typically do?| |
 |MONITORING|User Activity Monitoring: When do they typically do it?| |		
+|MONITORING|User Activity Monitoring: New MFA Devices added to User Accounts?| | 
 |MONITORING|Admin Activity Monitoring: New Accounts Created?| |
 |MONITORING|Admin Activity Monitoring: New Service Principals Created?| |
 |MONITORING|Admin Activity Monitoring: New Applications Allowed access?| |
 |MONITORING|Admin Activity Monitoring: New API Keys being created?| |
 |MONITORING|Admin Activity Monitoring: New Passwords for Client Credentials Flow Created?| | 
 |MONITORING|Admin Activity Monitoring: New Rules Created to allow for backdoored / non-MFA access?| |
+|MONITORING|Admin Activity Monitoring: New MFA Devices added to Admin Accounts?| | 
 |APPLICATION MONITORING|Who uses elevated privileges? When?| |
 |DATA ACCESS|Do you monitor for access to sensitive data?| |
 |DATA ACCESS|Document Canaries to detect for unauthorized access to data?| |
